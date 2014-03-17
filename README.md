@@ -1,1 +1,1 @@
-A collection of nearly all self designed Eage library files.
+A collection of nearly all eage library files designed by me.
