@@ -1,0 +1,6 @@
+
+Blog post:
+http://www.adafruit.com/blog/2011/12/22/adafruit-eagle-library-now-with-beagle-bone-outline/
+
+Distributed over GitHub:
+https://github.com/adafruit/Adafruit-Eagle-Library
